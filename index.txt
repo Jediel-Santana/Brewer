@@ -3,5 +3,5 @@ listas-2-responsiva
 listas-3-responsiva
 
 
-planos-1
-planos-2
+planos-1-responsiva
+planos-2-responsiva
